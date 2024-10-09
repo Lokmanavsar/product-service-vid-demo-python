@@ -1,5 +1,5 @@
 # Test the product-service
 
 ### Get list of products
-GET http://localhost:3030/products
+GET https://product-service-demo-auach2eybne9adfr.canadacentral-01.azurewebsites.net/products
 Accept: application/json
